@@ -141,5 +141,9 @@ footer {
     .recipe {
         width: 90%;
     }
+
+    nav, footer, .container {
+        padding: 2em;
+    }
     
 }
