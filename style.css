@@ -104,14 +104,14 @@ h2.search {
 
 .recipe-details h3 {
     font-size: 1.3em;
-    margin-bottom: 1.5em;
+    margin-bottom: 2em;
 }
 
 .recipe-details a {
     padding: 1em 2em;
     background: var(--background);
     color: var(--font);
-    font-family: Overpass;
+    font-family: Edu VIC WA NT Beginner;
     text-decoration: none;
     font-size: 1.3em;
     border: none;
@@ -133,6 +133,10 @@ footer {
 @media (max-width:600px) {
     nav, footer, .container {
         padding: 2em 4em;
+    }
+
+    .container {
+        justify-content: center;
     }
     
 }
