@@ -62,7 +62,7 @@ h2.search {
     font-size: 2em;
     color: white;
     text-align: center;
-    margin-bottom: 2em;
+    padding: 0 2em 2em;
 }
 
 .container {
@@ -137,6 +137,7 @@ footer {
 
     .container {
         justify-content: center;
+        
     }
     
 }
@@ -149,5 +150,6 @@ footer {
     nav, footer, .container {
         padding: 2em;
     }
+
     
 }

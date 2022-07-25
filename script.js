@@ -62,10 +62,16 @@ function DesignOutput(Food, SearchValue) {
         Recipe.append(Thumbnail);
         Recipe.append(Details);
 
-        document.querySelector("h2.search").innerHTML = `Showing search results for "${SearchValue}"`
+        
 
         Container.append(Recipe)
 
+    }
+
+    if(Food.length<1) {
+        document.querySelector("h2.search").innerHTML = `No search results for "${SearchValue}"`
+    } else {
+        document.querySelector("h2.search").innerHTML = `Showing ${Food.length} search results for "${SearchValue}"`
     }
    
 
