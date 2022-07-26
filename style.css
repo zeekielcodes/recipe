@@ -70,6 +70,7 @@ h2.search {
     display: flex;
     flex-wrap: wrap;
     gap: 4em;
+    padding-bottom: 15em;
 }
 
 .recipe {
@@ -137,6 +138,7 @@ footer {
 
     .container {
         justify-content: center;
+        padding-bottom: 10em;
         
     }
     
@@ -149,6 +151,10 @@ footer {
 
     nav, footer, .container {
         padding: 2em;
+    }
+
+    .container {
+        padding-bottom: 10em;
     }
 
     
