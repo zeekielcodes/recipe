@@ -17,6 +17,5 @@
 
 ## Author
 
-- Website - [Ezekiel The Face](https://thefaceportfolio.netlify.app)
-- Frontend Mentor - [@iamtheface](https://www.frontendmentor.io/profile/iamtheface)
-- Twitter - [@thefacetweets](https://www.twitter.com/thefacetweets)
+- Website - [Ezekiel The Face](https://thefacecodes.web.app)
+- Twitter - [@thefacecodes](https://www.twitter.com/thefacecodes)
